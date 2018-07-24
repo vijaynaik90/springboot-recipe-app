@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+*.idea
+target
+generated
+.settings
+.project
+*.ipr
+*.iws
